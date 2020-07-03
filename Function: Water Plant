@@ -1,0 +1,29 @@
+
+#include <iostream>
+
+// Define needs_water() here:
+
+int need_water(int days,false)
+
+if (is_succulent=false && days>3)
+std::cout"Time to water the plant.\n";
+
+ else if(is_succulent=true && days<12)
+ std::cout"Time to water the plant.\n";
+
+ else if(is_succulent=true && days>+13)
+  std::cout"Time to water the plant.\n";
+
+  else 
+  std::cout"Don't water the planet.\n" ; 
+ 
+
+
+
+int main() {
+  //call function
+  std::cout << needs_water(10, false) << "\n";
+   return need_water
+  
+  
+}

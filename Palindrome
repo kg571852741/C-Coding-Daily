@@ -1,0 +1,18 @@
+# C-Coding-Daily\
+
+#include <iostream>
+
+// Define is_palindrome() here:
+
+std::string is_palindrome(std::string text ,bool text){
+if(text ==true){
+return text is a palindrome ; 
+else
+return text is not a palindrome ; }
+
+int main() {
+  
+  std::cout << is_palindrome("madam") << "\n";
+  std::cout << is_palindrome("ada") << "\n";
+  std::cout << is_palindrome("lovelace") << "\n"; 
+  }
